@@ -32,6 +32,9 @@ Este projeto foi idealizado para mulheres que sonham em ver um pouco mais do mun
 ![5](https://github.com/bruvalves/Vai-sozinha/assets/133712788/9ae9bfb9-69cc-4214-b74d-e3adf78dfdce)
 ![6](https://github.com/bruvalves/Vai-sozinha/assets/133712788/ce22ead0-85d3-4996-ac0b-c1801cf5f988)
 
+# Youtube apresentação
+https://youtu.be/yAOXc_TFMkk
+
 # Autores
 
 Brunna Vieira Alves
