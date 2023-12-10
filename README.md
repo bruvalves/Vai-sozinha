@@ -1,6 +1,6 @@
 # Vai-sozinha
 
-<img src="/Vai-sozinha/assets/133712788/aa3f4c72-b3de-4b87-9b59-06f11e3b9381">
+<img src="https://photos.app.goo.gl/f7NLt1ZzXYBne1wi9">
 
 
 # Sobre o Projeto
